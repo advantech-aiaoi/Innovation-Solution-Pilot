@@ -1,11 +1,7 @@
 # Agent Studio Demo
-==========================================================
-Application Notes
 
-Revision v1.0
-
-Revision History
-
+## Application Notes
+### Revision History
   **Version**   **Date**     **Editor**   **Modifications**
   ------------- ------------ ------------ ---------------------------
   0.1           2024/09/16   Alan.Chu     Initial draft.
