@@ -1,8 +1,10 @@
 # Edge Agent Demo
 
 ## Application Notes
-### Revision History
 
+## Revision History
+
+# Installation Guide
 [1. Introduction 2](#introduction)
 
 [2. Agent Studio 3](#_Toc181105829)
