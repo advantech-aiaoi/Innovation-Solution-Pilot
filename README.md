@@ -1,4 +1,4 @@
-# Agent Studio Demo
+# Edge Agent Demo
 
 ## Application Notes
 ### Revision History
