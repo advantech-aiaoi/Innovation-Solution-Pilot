@@ -1,7 +1,5 @@
-Integrated Solution Package
-
-JPS Agent Studio Demo
-
+#Agent Studio Demo
+==========================================================
 Application Notes
 
 Revision v1.0
