@@ -2,10 +2,6 @@
 
 ## Application Notes
 ### Revision History
-  **Version**   **Date**     **Editor**   **Modifications**
-  ------------- ------------ ------------ ---------------------------
-  0.1           2024/09/16   Alan.Chu     Initial draft.
-  1.0           2024/10/29   Alan.Chu     Install in a simpler way.
 
 [1. Introduction 2](#introduction)
 
